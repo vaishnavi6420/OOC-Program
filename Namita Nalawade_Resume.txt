@@ -1,0 +1,16 @@
+-------------------------------
+           RESUME
+-------------------------------
+Name: Namita Nalawade
+Email: namita@gmail.com
+Contact: 23123123123
+
+EDUCATION:
+B.E. in Computer Engineering - MITAOE
+
+SKILLS:
+C++, Java, Android, Firebase
+
+EXPERIENCE:
+Fresher
+-------------------------------
